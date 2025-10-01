@@ -1,4 +1,4 @@
-# FreeCodeCamp Responsive Survey Form Challenge 📝
+# Responsive Survey Form 📝
 
 A responsive and accessible survey form, completed as part of my frontend development training. Built purely with **Semantic HTML** and **Modern CSS** to practice fundamental concepts like layout, form design, and basic accessibility standards.
 
